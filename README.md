@@ -1,0 +1,3 @@
+- git clone https://github.com/AnudeepGI/avaamo.git
+- cd avaamo
+- npm start
